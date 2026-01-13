@@ -29,3 +29,8 @@ This project implements a Convolutional Neural Network (CNN) to classify images 
 - CNN trained using Adam optimizer
 - Early stopping used to reduce overfitting
 - Training and validation curves generated
+
+## Model Evaluation
+- Evaluated model on unseen test data
+- Visualized correct and incorrect predictions
+- Identified class-level challenges in image classification
