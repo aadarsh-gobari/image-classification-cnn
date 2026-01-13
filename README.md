@@ -24,3 +24,8 @@ This project implements a Convolutional Neural Network (CNN) to classify images 
 - Max pooling for spatial reduction
 - Fully connected layers with dropout for regularization
 - Softmax output for multi-class classification
+
+## Model Training
+- CNN trained using Adam optimizer
+- Early stopping used to reduce overfitting
+- Training and validation curves generated
