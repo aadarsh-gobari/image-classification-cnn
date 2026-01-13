@@ -18,3 +18,9 @@ This project implements a Convolutional Neural Network (CNN) to classify images 
 - Dataset loaded
 - Images normalized
 - Sample visualizations created
+
+## Model Architecture
+- Three convolutional layers with ReLU activation
+- Max pooling for spatial reduction
+- Fully connected layers with dropout for regularization
+- Softmax output for multi-class classification
